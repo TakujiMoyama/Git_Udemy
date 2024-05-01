@@ -3,3 +3,4 @@ Gitの勉強開始
 git commit --amend
 git merge
 conflict
+pull request
